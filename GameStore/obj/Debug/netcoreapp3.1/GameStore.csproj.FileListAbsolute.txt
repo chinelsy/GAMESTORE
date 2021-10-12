@@ -1,0 +1,199 @@
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\GameStore.exe
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\GameStore.deps.json
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\GameStore.runtimeconfig.json
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\GameStore.runtimeconfig.dev.json
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\GameStore.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\GameStore.pdb
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\GameStore.Views.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\GameStore.Views.pdb
+C:\Users\hp\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.AssemblyInfo.cs
+C:\Users\hp\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.RazorAssemblyInfo.cache
+C:\Users\hp\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.RazorAssemblyInfo.cs
+C:\Users\hp\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\staticwebassets\GameStore.StaticWebAssets.Manifest.cache
+C:\Users\hp\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\staticwebassets\GameStore.StaticWebAssets.xml
+C:\Users\hp\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\scopedcss\bundle\GameStore.styles.css
+C:\Users\hp\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.TagHelpers.input.cache
+C:\Users\hp\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.TagHelpers.output.cache
+C:\Users\hp\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.RazorCoreGenerate.cache
+C:\Users\hp\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hp\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hp\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hp\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hp\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.RazorTargetAssemblyInfo.cache
+C:\Users\hp\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.RazorTargetAssemblyInfo.cs
+C:\Users\hp\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.Views.pdb
+C:\Users\hp\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.dll
+C:\Users\hp\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.pdb
+C:\Users\hp\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.genruntimeconfig.cache
+C:\Users\hp\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.csproj.CopyComplete
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\hp\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+C:\Users\hp\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+C:\Users\hp\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\hp\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\hp\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Pages\_CartLayout.cshtml.g.cs
+C:\Users\hp\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Pages\Cart.cshtml.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\GameStore.exe
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\GameStore.deps.json
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\GameStore.runtimeconfig.json
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\GameStore.runtimeconfig.dev.json
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\GameStore.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\GameStore.pdb
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\GameStore.Views.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\GameStore.Views.pdb
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.AssemblyInfo.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.RazorAssemblyInfo.cache
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.RazorAssemblyInfo.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\staticwebassets\GameStore.StaticWebAssets.Manifest.cache
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\staticwebassets\GameStore.StaticWebAssets.xml
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\scopedcss\bundle\GameStore.styles.css
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.TagHelpers.input.cache
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.TagHelpers.output.cache
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.RazorCoreGenerate.cache
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Pages\Cart.cshtml.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Pages\_CartLayout.cshtml.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.RazorTargetAssemblyInfo.cache
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.RazorTargetAssemblyInfo.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.Views.pdb
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.csproj.CopyComplete
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.pdb
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.genruntimeconfig.cache
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Pages\Completed.cshtml.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.RazorComponent.input.cache
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\AdminLayout.razor.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Orders.razor.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Products.razor.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Routed.razor.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\_Imports.razor.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.RazorComponent.output.cache
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\RazorDeclaration\GameStore.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\AdminLayout.razor.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Orders.razor.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Products.razor.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Routed.razor.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\_Imports.razor.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Index.cshtml.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\OrderTable.razor.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\OrderTable.razor.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Details.razor.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Details.razor.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Editor.razor.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Editor.razor.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\IdentityUsers.cshtml.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\appsettings.Production.json
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.GeneratedMSBuildEditorConfig.editorconfig
