@@ -113,3 +113,4 @@ C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Release\netcoreapp
 C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Release\netcoreapp3.1\GameStore.dll
 C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Release\netcoreapp3.1\GameStore.pdb
 C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Release\netcoreapp3.1\GameStore.genruntimeconfig.cache
+C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Release\netcoreapp3.1\GameStore.GeneratedMSBuildEditorConfig.editorconfig
