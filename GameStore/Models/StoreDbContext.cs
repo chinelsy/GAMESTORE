@@ -14,5 +14,6 @@ namespace GameStore.Models
         }
         public DbSet<Product> Products { get; set; }
         public DbSet<Order> Orders { get; set; }
+       // public DbSet<Book> Books { get; set; }
     }
 }

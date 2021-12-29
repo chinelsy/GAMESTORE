@@ -12,6 +12,7 @@ namespace GameStore.Models
         public long ProductID { get; set; }
         [Required(ErrorMessage = "Please enter a product name")]
         public string Name { get; set; }
+
         [Required(ErrorMessage = "Please enter a description")]
         public string Description { get; set; }
         [Required]

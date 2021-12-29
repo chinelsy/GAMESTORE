@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\source\\repos\\ASP.NET TASK\\GameStore\\GameStore\\GameStore.csproj": {}
+    "C:\\Users\\USER\\Desktop\\source\\repos\\ASP.NET TASK\\GameStore\\GameStore\\GameStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\source\\repos\\ASP.NET TASK\\GameStore\\GameStore\\GameStore.csproj": {
+    "C:\\Users\\USER\\Desktop\\source\\repos\\ASP.NET TASK\\GameStore\\GameStore\\GameStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\ASP.NET TASK\\GameStore\\GameStore\\GameStore.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\source\\repos\\ASP.NET TASK\\GameStore\\GameStore\\GameStore.csproj",
         "projectName": "GameStore",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\ASP.NET TASK\\GameStore\\GameStore\\GameStore.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\ASP.NET TASK\\GameStore\\GameStore\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Desktop\\source\\repos\\ASP.NET TASK\\GameStore\\GameStore\\GameStore.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\source\\repos\\ASP.NET TASK\\GameStore\\GameStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,6 +40,10 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Braintree": {
+              "target": "Package",
+              "version": "[5.10.0, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.10, )"
@@ -79,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

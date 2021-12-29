@@ -12,42 +12,42 @@ namespace GameStore.Pages.Admin
     using System.Linq;
     using System.Threading.Tasks;
 #nullable restore
-#line 2 "C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\Pages\Admin\_Imports.razor"
+#line 2 "C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\Pages\Admin\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\Pages\Admin\_Imports.razor"
+#line 4 "C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\Pages\Admin\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\Pages\Admin\_Imports.razor"
+#line 5 "C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\Pages\Admin\_Imports.razor"
 using Microsoft.EntityFrameworkCore;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\Pages\Admin\_Imports.razor"
+#line 6 "C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\Pages\Admin\_Imports.razor"
 using GameStore.Models;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 1 "C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\Pages\Admin\AdminLayout.razor"
+#line 1 "C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\Pages\Admin\AdminLayout.razor"
 using Microsoft.AspNetCore.Components;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "C:\Users\hp\source\repos\ASP.NET TASK\GameStore\GameStore\Pages\Admin\AdminLayout.razor"
+#line 2 "C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\Pages\Admin\AdminLayout.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
