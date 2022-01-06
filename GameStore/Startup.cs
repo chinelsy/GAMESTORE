@@ -12,12 +12,12 @@ namespace GameStore
 {
     public class Startup
     {
-        public Startup(IConfiguration config)
+        public Startup(IConfiguration configuration)
         {
-            Configuration = config;
+            Configuration = configuration;
         }
-        private IConfiguration Configuration { get; set; }
 
+        public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
@@ -30,9 +30,8 @@ namespace GameStore
                 Configuration["ConnectionStrings:GameStoreConnection"]);
             });
             services.AddScoped<IStoreRepository, EFStoreRepository>();
-            services.AddScoped<IOrderRepository, EFOrderRepository
-                >();
-            services.AddTransient<IBraintreeService, BraintreeService>();
+            services.AddScoped<IOrderRepository, EFOrderRepository>();
+      
             services.AddRazorPages();
             services.AddDistributedMemoryCache();
             services.AddSession();
@@ -45,6 +44,7 @@ namespace GameStore
 
             services.AddIdentity<IdentityUser, IdentityRole>()
             .AddEntityFrameworkStores<AppIdentityDbContext>();
+            
 
         }
 

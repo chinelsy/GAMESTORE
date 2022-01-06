@@ -40,6 +40,10 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "AuthorizeNet": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
             "Braintree": {
               "target": "Package",
               "version": "[5.10.0, )"
@@ -63,6 +67,18 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.10, )"
+            },
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.25.1, )"
+            },
+            "SendgridEmailHelper": {
+              "target": "Package",
+              "version": "[1.0.0, )"
             }
           },
           "imports": [

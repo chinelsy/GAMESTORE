@@ -209,6 +209,8 @@ C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\ne
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\GameStore.pdb
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\GameStore.Views.dll
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\GameStore.Views.pdb
+C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\AuthorizeNet.dll
+C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Braintree.dll
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Humanizer.dll
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
@@ -221,9 +223,16 @@ C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\ne
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
@@ -237,6 +246,9 @@ C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\ne
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\SendGrid.dll
+C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\SendgridEmailHelper.dll
+C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
@@ -244,6 +256,8 @@ C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\ne
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
@@ -295,6 +309,7 @@ C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\ne
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Views\Order\Create.cshtml.g.cs
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
@@ -313,6 +328,3 @@ C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\ne
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.dll
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.pdb
 C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.genruntimeconfig.cache
-C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\Braintree.dll
-C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
-C:\Users\USER\Desktop\source\repos\ASP.NET TASK\GameStore\GameStore\obj\Debug\netcoreapp3.1\Razor\Views\Order\Create.cshtml.g.cs

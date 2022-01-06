@@ -35,31 +35,71 @@
             <input asp-for="GiftWrap" /> Gift wrap these items
         </label>
     </div>
-    <div class="text-center">
-        <input class="btn btn-primary" type="submit" value="Complete Order" />
+
+    <hr class="mb-4">
+    <h4 class="mb-3">Payment</h4>
+    <div class="row">
+        <div class="col-md-6 mb-3">
+            <label for="cc-name">Name on card</label>
+            <input type="text" class="form-control" id="cc-name" placeholder="Bob Gunderson">
+            <small class="text-muted">Full name as displayed on card</small>
+            <div class="invalid-feedback">
+                Name on card is required
+            </div>
+        </div>
+        <div class="col-md-6 mb-3">
+            <label for="cc-number">Credit card number</label>
+            <input type="text" class="form-control" id="cc-number" placeholder="4111111111111111" value="4111111111111111" readonly>
+            <div class="invalid-feedback">
+                Credit card number is required
+            </div>
+        </div>
     </div>
-
-    <script src="https://js.braintreegateway.com/web/dropin/1.22.0/js/dropin.min.js"></script>
-    <script>
-    var client_token = "@ViewBag.ClientToken";
-    var form = document.querySelector('#payment-form');
-
-    braintree.dropin.create({
-        authorization: client_token,
-        container: '#bt-dropin'
-    }, function (createErr, instance) {
-        form.addEventListener('submit', function (event) {
-            event.preventDefault();
-
-            instance.requestPaymentMethod(function (err, payload) {
-                if (err) {
-                    return;
-                }
-
-                document.querySelector('#nonce').value = payload.nonce;
-                form.submit();
-            });
-        });
-    });
-    </script>
+    <div class="row">
+        <div class="col-md-3 mb-3">
+            <label for="cc-expiration">Expiration</label>
+            <input type="text" class="form-control" id="cc-expiration" placeholder="0718" readonly>
+            <div class="invalid-feedback">
+                Expiration date required
+            </div>
+        </div>
+        <div class="col-md-3 mb-3">
+            <label for="cc-expiration">CVV</label>
+            <input type="text" class="form-control" id="cc-cvv" placeholder="123" readonly>
+            <div class="invalid-feedback">
+                Security code required
+            </div>
+        </div>
+    </div>
+    <hr class="mb-4">
+    <hr class="mb-4">
+    <button class="btn btn-primary btn-lg btn-block" type="submit">Continue to checkout</button>
 </form>
+
+<script src="https://js.nicdn.de/bootstrap/formhelpers/docs/assets/js/bootstrap-formhelpers-selectbox.js"></script>
+<script src="https://js.nicdn.de/bootstrap/formhelpers/docs/assets/js/bootstrap-formhelpers-countries.en_US.js"></script>
+<script src="https://js.nicdn.de/bootstrap/formhelpers/docs/assets/js/bootstrap-formhelpers-countries.js"></script>
+<script src="https://js.nicdn.de/bootstrap/formhelpers/docs/assets/js/bootstrap-formhelpers-states.en_US.js"></script>
+<script src="https://js.nicdn.de/bootstrap/formhelpers/docs/assets/js/bootstrap-formhelpers-states.js"></script>
+<script>
+    // Example starter JavaScript for disabling form submissions if there are invalid fields
+    (function () {
+        'use strict';
+
+        window.addEventListener('load', function () {
+            // Fetch all the forms we want to apply custom Bootstrap validation styles to
+            var forms = document.getElementsByClassName('needs-validation');
+
+            // Loop over them and prevent submission
+            var validation = Array.prototype.filter.call(forms, function (form) {
+                form.addEventListener('submit', function (event) {
+                    if (form.checkValidity() === false) {
+                        event.preventDefault();
+                        event.stopPropagation();
+                    }
+                    form.classList.add('was-validated');
+                }, false);
+            });
+        }, false);
+    })();
+</script>
